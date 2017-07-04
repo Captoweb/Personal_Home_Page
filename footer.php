@@ -1,3 +1,3 @@
 <div class= "footer">
-    футер
+    Все права защищены &copy;
 </div>

@@ -1,3 +1,3 @@
 <div class= "footer">
-    Все права защищены &copy;
+    <p align="center"> Все права защищены &copy;</p>
 </div>
